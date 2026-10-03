@@ -88,16 +88,6 @@
       </p>
       <p><code>app.py</code> · <code>schema.sql</code> · <code>seed.py</code> · <code>kits.db</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧰 kits-platform</h3>
-      <p>A templated platform with reusable docs, scripts, and static assets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/docs-0052CC?style=for-the-badge" alt="docs" />
-        <img src="https://img.shields.io/badge/scripts-555555?style=for-the-badge" alt="scripts" />
-        <img src="https://img.shields.io/badge/templates-555555?style=for-the-badge" alt="templates" />
-      </p>
-      <p><code>docs/</code> · <code>scripts/</code> · <code>templates/</code> · <code>static/</code></p>
-    </td>
   </tr>
 </table>
 
