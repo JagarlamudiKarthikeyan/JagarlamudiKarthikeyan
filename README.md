@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jagarlamudi Karthikeyan 👋
+# Hi, I'm Jagarlamudi Karthikeyan 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&center=true&width=650&lines=Full-Stack+Developer;Python+%2B+Flask+Enthusiast;Always+Learning+Something+New" alt="Typing animation" />
 
