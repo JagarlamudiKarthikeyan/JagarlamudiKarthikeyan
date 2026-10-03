@@ -137,6 +137,6 @@ If my work helped you out, consider buying me a coffee. It keeps the late-night 
 
 <div align="center">
 
-Made with ❤️ by **Jagarlamudi Karthikeyan**
+Made with  by **Jagarlamudi Karthikeyan**
 
 </div>
